@@ -4,10 +4,14 @@
 
 ```bash
 # install dependencies
-$ yarn install
+$ yarn/npm install
+
+# run dummy api
+$ cd backend
+$ json-server --watch db.json
 
 # serve with hot reload at localhost:3000
-$ yarn dev
+$ yarn dev / npm run dev
 
 # build for production and launch server
 $ yarn build
