@@ -15,13 +15,13 @@
         <div class="images mb-8">
           <img :src="images" alt="">
         </div>
-        <div class="content flex">
-          <div class="content_left w-3/5 md:pr-8">
+        <div class="content flex flex-wrap">
+          <div class="content_left w-full md:w-3/5 md:pr-8">
             <p>
               {{dataArtikel.artikel}}
             </p>
           </div>
-          <div class="content_right w-2/5">
+          <div class="content_right w-full md:w-2/5">
             <div class="related">
               <CardArticleTerkait/>
             </div>
