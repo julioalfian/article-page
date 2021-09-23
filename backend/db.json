@@ -1,0 +1,156 @@
+{
+  "article": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "title": "Telusuri Penyebab dan Penanganan Infertilitas Sekunder",
+      "category":[
+        {
+          "id" : 1,
+          "name" : "seksualitas"
+        },
+        {
+          "id" : 2,
+          "name" : "dewasa"
+        }
+      ],
+      "penulis": "Iman Firmansyah",
+      "reviewer": "Tim YesDok",
+      "date": "22 Sep 2021",
+      "gambar": "30ef9d5f-d75a-4e6e-a388-100a41abf932-article-1632151263",
+      "artikel": "Sekitar 10-15 persen pasangan mengalami infertilitas dan sepertiganya mengidap infertilitas sekunder. Infertilitas menurut WHO didefinisikan sebagai kegagalan pasangan suami istri untuk hamil setelah satu tahun berhubungan seksual secara teratur tanpa alat kontrasepsi. Definisi ini juga berlaku pada infertilitas sekunder, tetapi dalam hal ini pasangan tersebut sudah memiliki anak sebelumnya. Dalam hal kesuburan, riwayat kehamilan dan persalinan sebelumnya tidak selalu membuat peluang kehamilan selanjutnya lebih mudah."
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "title": "Uji Klinis Vaksin Pfizer Tunjukkan Respon Positif untuk Anak 5-11 Tahun",
+      "category":[
+        {
+          "id" : 1,
+          "name" : "terkini"
+        },
+        {
+          "id" : 2,
+          "name" : "covid"
+        }
+      ],
+      "penulis": "Kaifia Zahra",
+      "reviewer": "Tim YesDok",
+      "date": "21 Sep 2021",
+      "gambar": "pfizer-vaccines-us-article-1632269122",
+      "artikel": "Dalam uji klinis yang dilakukan oleh Pfizer untuk anak-anak usia 5 tahun hingga 11 tahun, dosis yang lebih kecil dari vaksin Covid-19 Pfizer dan BioNTech aman dan menghasilkan respons kekebalan kuat. CEO Pfizer Albert Bourla mengatakan pekan lalu bahwa perusahaan dapat mengirimkan data anak-anak usia 5 hingga 11 tahun pada akhir bulan ini. Jika FDA menghabiskan banyak waktu untuk meninjau data untuk kelompok usia itu seperti yang dilakukan untuk anak berusia 12 hingga 15 tahun, suntikan dapat tersedia pada waktunya sekitar bulan Oktober."
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "title": "Bahaya Penggumpalan Darah Koagulopati Pada Penderita Covid",
+      "category":[
+        {
+          "id" : 1,
+          "name" : "terkini"
+        }
+      ],
+      "penulis": "Dr. Marshell Timotius Handoko, S.Ked",
+      "reviewer": "Tim YesDok",
+      "date": "18 Maret 2021",
+      "gambar": "whatsapp image 2021-03-18 at 14.29.46-article-1616052698",
+      "artikel": "Sekitar 10-15 persen pasangan mengalami infertilitas dan sepertiganya mengidap infertilitas sekunder. Infertilitas menurut WHO didefinisikan sebagai kegagalan pasangan suami istri untuk hamil setelah satu tahun berhubungan seksual secara teratur tanpa alat kontrasepsi."
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "title": "Gejala Gangguan Bipolar pada Anak ",
+      "category":[
+        {
+          "id" : 1,
+          "name" : "sehat a-z"
+        }
+      ],
+      "penulis": "Kaifia Zahra",
+      "reviewer": "Tim YesDok",
+      "date": "22 Sep 2021",
+      "gambar": "screen shot 2021-09-22 at 6.56.04 am-article-1632269778",
+      "artikel": "Gangguan bipolar adalah gangguan mental yang mengakibatkan seseorang mengalami perubahan suasana hati yang ekstrem dan berpengaruh pada kehidupan sehari-hari mereka. Gangguan ini bisa dialami oleh siapa saja baik orang dewasa, anak remaja maupun anak-anak. Ketika seorang anak mengalami episode depresi, mereka mungkin memiliki energi yang rendah dan kehilangan minat pada aktivitas yang pernah dinikmati. Saat episode manik terjadi, orang tua mungkin memperhatikan anak mereka memiliki banyak energi."
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "title": "Apakah Aman Tetap Berolahraga saat Sedang Flu atau Pilek?",
+      "category":[
+        {
+          "id" : 1,
+          "name" : "gaya hidup"
+        },
+        {
+          "id" : 2,
+          "name" : "olahraga"
+        }
+      ],
+      "penulis": "Helmi",
+      "reviewer": "Tim YesDok",
+      "date": "21 Sep 2021",
+      "gambar": "illness-exercise_featured-image-article-1632269398",
+      "artikel": "Sedang flu atau pilek, tetapi Anda ingin berolahraga. Tentunya Anda akan bertanya-tanya, apakah dengan kondisi ini aman untuk terus berolahraga?. Jawabannya, pilihan untuk istirahat lebih banyak tergantung pada tingkat keparahan gejala Anda. Umumnya, jika Anda berurusan dengan flu biasa akan berlangsung 7-10 hari tetapi jika Anda tetap terhidrasi, dapatkan vitamin dan mineral yang tepat, dan cukup tidur, Anda dapat pulih lebih cepat.  Jika pilek Anda ringan, biasanya tidak apa-apa untuk terus berolahraga. Pastikan untuk memodifikasi latihan Anda sehingga Anda menghabiskan lebih sedikit energi secara keseluruhan. "
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "title": "Pengaruh Kafein yang Berlebih Terhadap Kecemasan",
+      "category":[
+        {
+          "id" : 1,
+          "name" : "sehat a-z"
+        },
+        {
+          "id" : 2,
+          "name" : "gaya hidup"
+        }
+      ],
+      "penulis": "Kaifia Zahra",
+      "reviewer": "Tim YesDok",
+      "date": "22 Sep 2021",
+      "gambar": "hot-cappucino-with-laptop-table-article-1632180787",
+      "artikel": "Kafein merupakan zat alami yang ditemukan di makanan dan minuman khususnya kopi. Mengonsumsi terlalu banyak kafein bisa menyebabkan berbagai gejala tertentu salah satunya gejala kecemasan. Stimulan alami ini paling banyak dikonsumsi oleh orang seluruh dunia dan merupakan minuman yang paling banyak dikonsumsi kedua setelah air putih dengan 1.6 miliar cangkir. Meskipun kafein dikenal dapat membuat seseorang terasa terbangung, asupan yang berlebihan bisa menyebabkan dampak negatif bagi kesehatan tubuh. Termasuk gejala kecemasan. Sebuah studi tahun 2018 menunjukkan bagaimana kafein mampu meningkatkan tingkat kewaspadaan dengan memblokir zat kimia pada otak yang membuat Anda merasa lelah, sementara pada waktu yang sama memicu pelepasan adrenalin yang diketahui mampu meningkatkan energi."
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "title": "6 Makanan Kaya Antioksidan untuk Membantu Penurunan Berat Badan",
+      "category":[
+        {
+          "id" : 1,
+          "name" : "sehat a-z"
+        },
+        {
+          "id" : 2,
+          "name" : "diet"
+        }
+      ],
+      "penulis": "Iman Firmansyah",
+      "reviewer": "Tim YesDok",
+      "date": "20 Sep 2021",
+      "gambar": "ab9402d8-da53-4a09-b1f2-3e110326e98a-article-1632040836",
+      "artikel": "Antioksidan memiliki banyak manfaat kesehatan dan dapat membantu penurunan berat badan. Sejak awal pandemi, orang-orang telah memahami pentingnya tetap sehat dan tetap bugar. Antioksidan sangat dianjurkan untuk orang yang mencoba menurunkan berat badan. Tidak hanya itu, antioksidan mencegah kerusakan akibat radikal bebas. Kerusakan radikal bebas dapat berkontribusi pada banyak masalah kesehatan kronis seperti penyakit kardiovaskular dan inflamasi. Berikut adalah daftar enam makanan kaya antioksidan yang meningkatkan penurunan berat badan dan meningkatkan kesehatan Anda secara keseluruhan."
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "title": "Pentingnya Mengelola Stres di Masa Pandemi",
+      "category":[
+        {
+          "id" : 1,
+          "name" : "sehat a-z"
+        },
+        {
+          "id" : 2,
+          "name" : "terkini"
+        }
+      ],
+      "penulis": "Iman Firmansyah",
+      "reviewer": "Tim YesDok",
+      "date": "04 Mei 2021",
+      "gambar": "14af0dc3-2f8e-4d01-81ac-28bf3e66ce5b-article-1588495622",
+      "artikel": "Pandemi corona telah menjadi sumber ketakutan, kecemasan, dan kepanikan bagi setiap orang. Perasaan ini tentu umum terjadi di setiap orang, namun menjadi amat berbahaya ketika tidak dikelola dengan baik. Tubuh kita bereaksi hanya dimaksudkan untuk stres jangka pendek, sedangkan pandemi ini berlangsung menerus dalam kurun waktu yang lama. Pandemi virus corona adalah pemicu yang sempurna untuk gejala stres karena sulit dikendalikan. Penting untuk mengetahui apa yang Anda rasakan untuk dapat melawannya. Stres adalah situasi sederhana yang menuntut lebih dari tekanan seseorang yang melakukan aktivitas sehari-hari. Stres, bagaimana pun dapat disebabkan oleh situasi bahagia dalam hidup seorang. Stres, tidak selalu memiliki efek negatif. Sedangkan kecemasan mirip dengan rasa takut. Masa pandemi seperti ini membuat stres sering bertabrakan, sehingga sulit diatasi. Ketika stres berlangsung lama dapat memengaruhi tubuh dan merusak mekanisme perlindungan diri Anda."
+    }
+  ]
+}
